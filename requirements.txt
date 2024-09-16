@@ -18,4 +18,5 @@ Starlette-OpenTracing>=0.1.0
 pydantic[dotenv]>=1.10.14
 aiomysql>=0.2.0
 sqlmodelx>=0.0.11
+sqlmodel==0.0.20
 nest_asyncio>=1.6.0
