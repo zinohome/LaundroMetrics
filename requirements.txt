@@ -2,6 +2,7 @@ fastapi_amis_admin>=0.7.2
 fastapi_user_auth>=0.7.3
 fastapi-user-auth[jwt]
 fastapi-scheduler>=0.0.15
+fastapi==0.111.1
 pydantic_settings>=2.1.0
 uvicorn>=0.27.1
 gunicorn>=21.2.0
@@ -17,4 +18,5 @@ Starlette-OpenTracing>=0.1.0
 pydantic[dotenv]>=1.10.14
 aiomysql>=0.2.0
 sqlmodelx>=0.0.11
+sqlmodel==0.0.20
 nest_asyncio>=1.6.0

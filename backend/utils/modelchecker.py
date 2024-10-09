@@ -90,4 +90,4 @@ class Modelchecker():
 
 if __name__ == '__main__':
     mc = Modelchecker()
-    #mc.check_models()
+    mc.check_models()
